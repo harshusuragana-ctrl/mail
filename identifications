@@ -1,0 +1,17 @@
+Suspicious Sender Address – The sender’s email claimed to be from "PayPal Support," but the actual domain was paypa1-security@randomdomain.com.
+
+Header Discrepancies – The "From" domain didn’t match the "Return-Path," indicating spoofing.
+
+Malicious Link – The "Update Account" button led to http://fake-paypal-login.xyz instead of the real PayPal domain.
+
+Urgent Language – The email said “Your account will be suspended in 24 hours if you don’t act now.”
+
+Attachment Risk – A .zip file was included, labeled as "Account Verification."
+
+Grammar & Spelling Errors – Multiple mistakes like “plese update immediatly.”
+
+Mismatched URLs – Hovering over the text showed a different link than displayed.
+
+Generic Greeting – Used “Dear Customer” instead of the recipient’s actual name.
+
+✅ Conclusion: This is a phishing email designed to trick users into revealing login cre
